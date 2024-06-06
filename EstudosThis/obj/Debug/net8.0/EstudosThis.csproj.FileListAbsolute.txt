@@ -1,0 +1,14 @@
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\bin\Debug\net8.0\EstudosThis.exe
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\bin\Debug\net8.0\EstudosThis.deps.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\bin\Debug\net8.0\EstudosThis.runtimeconfig.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\bin\Debug\net8.0\EstudosThis.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\bin\Debug\net8.0\EstudosThis.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\obj\Debug\net8.0\EstudosThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\obj\Debug\net8.0\EstudosThis.AssemblyInfoInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\obj\Debug\net8.0\EstudosThis.AssemblyInfo.cs
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\obj\Debug\net8.0\EstudosThis.csproj.CoreCompileInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\obj\Debug\net8.0\EstudosThis.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\obj\Debug\net8.0\refint\EstudosThis.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\obj\Debug\net8.0\EstudosThis.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\obj\Debug\net8.0\EstudosThis.genruntimeconfig.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosThis\EstudosThis\obj\Debug\net8.0\ref\EstudosThis.dll
